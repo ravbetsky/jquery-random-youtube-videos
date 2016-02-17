@@ -1,0 +1,19 @@
+{
+  "name": "Youtube get random videos",
+  "authors": [
+    "ravbetsky <ravbetsky@gmail.com>"
+  ],
+  "description": "Youtube get random videos dependencies",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

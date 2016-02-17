@@ -1,0 +1,14 @@
+.form-get-videos {
+  max-width: 320px;
+  margin-bottom: 25px;
+}
+
+#results-video.loading iframe.video-frame {
+  opacity: 0;
+}
+
+#results-video iframe.video-frame {
+  opacity: 1;
+  transition: opacity 0.3s ease-in;
+  -webkit-transition: opacity 0.3s ease-in;
+}
